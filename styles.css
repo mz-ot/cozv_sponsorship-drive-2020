@@ -10,6 +10,7 @@ body {
 .container {
     position: relative;
     width: 300px;
+    /*300px;*/
     height: 350px;
     z-index: 1;
     align-items: center;
@@ -50,16 +51,28 @@ body {
 }
 
 .text {
-    font-family: Roboto, sans;
+    font-family: Bitter, sans;
 
     position: absolute;
     z-index: -3;
 
     text-align: center;
-    width: 100%;
+    width: calc(100% - 50px);
 
-    top: 50%;
+    top: 40%;
+    left: 25px;
     transform: translateY(-50%) translateY(-12px);
+}
+
+.sponsor {
+    position: absolute;
+    z-index: -3;
+
+    left: 50%;
+    text-align: center;
+
+    bottom: 0px;
+    transform: translateX(-50%) translateY(-31px);
 }
 
 .cover {
@@ -68,9 +81,10 @@ body {
     z-index: -1;
 }
 
-.cover:hover+.move,
-.cover:focus+.move {
+.container:hover > .move,
+.container:focus > .move {
     top: -20%;
     opacity: 0;
     transition: .2s ease-in;
+    pointer-events: none
 }

@@ -12,7 +12,7 @@ var redoColumns = function() {
     let imgs = document.querySelectorAll('.move')
     let names = document.querySelectorAll('.name')
     for (i = 0; i != containers.length; i++) {
-        containers[i].style.width = Math.floor(pixels / columns)
+        containers[i].style.width = pixels / columns
         let column = i % columns
         let color = colors[(column + Math.floor(i / columns)) % 5]
         let namecolor = namecolors[(column + Math.floor(i / columns)) % 5]
