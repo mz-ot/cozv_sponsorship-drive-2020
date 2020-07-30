@@ -21,5 +21,25 @@ var redoColumns = function() {
     }
 }
 
+var updateNumbers = function() {
+    // Get file
+    let fileRQ = new XMLHttpRequest()
+    fileRQ.open("GET", "https://c0zv.github.io/2020drivedata/data.json", false)
+    fileRQ.send()
+
+    // Convert to variable
+    let data = JSON.parse(fileRQ.response)
+
+    // Update elements
+    for (element of document.getElementsByClassName("sponsors")) {
+        element.innerHTML = data[element.id]
+    }
+}
+
+var setup = function() {
+    redoColumns();
+    updateNumbers();
+}
+
 window.onresize = redoColumns;
-window.onload = redoColumns;
+window.onload = setup;
