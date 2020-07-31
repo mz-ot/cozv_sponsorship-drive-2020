@@ -1,0 +1,8 @@
+*
+!.gitignore
+!index.html
+!script.js
+!styles.css
+!take2
+!take2/*
+!button.png
