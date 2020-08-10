@@ -24,7 +24,7 @@ var redoColumns = function() {
 var updateNumbers = function() {
     // Get file
     let fileRQ = new XMLHttpRequest()
-    fileRQ.open("GET", "https://c0zv.github.io/2020drivedata/data.json", false)
+    fileRQ.open("GET", "https://cozv.github.io/2020drivedata/data.json", false)
     fileRQ.send()
 
     // Convert to variable
