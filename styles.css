@@ -1,5 +1,49 @@
 body {
     margin: 0;
+    font-family: Bitter, sans;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    background: white;
+    width: 100%;
+    z-index: 1000;
+    color: black;
+    padding: 1em;
+    box-shadow: 0 0 4px black;
+}
+
+.header a div {
+    line-height: 2em;
+    margin-left: 3em;
+}
+
+.header a {
+    color: black;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.header img {
+    height: 2em;
+    float: left;
+}
+
+.paragraph {
+    font-size: x-large;
+    margin: 150px 100px 50px 100px;
+}
+
+.paragraph a {
+    color: black;
+}
+
+.paragraph .emph {
+    font-style: italic;
+    font-weight: bold;
+    font-size: xxx-large;
+    text-align: center;
 }
 
 .containercontainer {
@@ -40,8 +84,7 @@ body {
 }
 
 .name {
-    font-family: Bitter, sans;
-    font-size: 40px;
+    font-size: xx-large;
 
     width: 100%;
     text-align: center;
@@ -51,8 +94,6 @@ body {
 }
 
 .text {
-    font-family: Bitter, sans;
-
     position: absolute;
     z-index: -3;
 
