@@ -1,0 +1,343 @@
+- name: Abed
+  age: 3
+  grade: Have not started school.
+  activity: I love to be silly, play with my friends and laugh.
+  future: My dream is to be happy and live a good long life.
+  image: Abed.jpg
+
+- name: Adeline
+  age: 13
+  grade: 2nd
+  activity: Mathematics and laughing
+  future: I want to be a nurse.
+  image: Adeline.jpg
+
+- name: Agnes
+  age: 13
+  grade: 7th
+  activity: Playing Basketball
+  future: I want to be a nurse or doctor.
+  image: Agnes.jpg
+
+- name: Augustinius
+  age: 14
+  grade: 3rd
+  activity: Learning languages and playing basketball
+  future: I want to be a doctor.
+  image: Augustinius.jpg
+
+- name: Benedicta
+  age: 11
+  grade: 5th
+  activity: Playing net ball
+  future: I want to be a doctor.
+  image: Benedicta.jpg
+
+- name: Benedictus
+  age: 8
+  grade: 1st
+  activity: Reading and playing on the playground
+  future: I want to be a police officer.
+  image: Benedictus.jpg
+
+- name: Beverly
+  age: 13
+  grade: 3rd
+  activity: Word building and playing net ball
+  future: I want to be a doctor.
+  image: Beverly.jpg
+
+- name: Buruxu
+  age: 6
+  grade: Kindergarten.
+  activity: Playing soccer with his friends
+  future: My dream is to be happy and live a good long life.
+  image: Buruxu.jpg
+
+- name: Caroline
+  age: 12
+  grade: 2nd
+  activity: Studying history, laughing, dancing and singing
+  future: I want to be a doctor.
+  image: Caroline.jpg
+
+- name: Centia
+  age: 13
+  grade: 4th
+  activity: Studying history, making others laugh, dancing and singing
+  future: I want to be a nurse.
+  image: Centia.jpg
+
+- name: Chance
+  age: 13
+  grade: 2nd
+  activity: Playing and caring for the younger children.
+  future: Still exploring the world, check back with her later.
+  image: Chance.jpg
+
+- name: Christantus
+  age: 6
+  grade: Kindergarten
+  activity: Singing, playing ball, running and laughing
+  future: I want to be a doctor.
+  image: Christantus.jpg
+
+- name: Clement
+  age: 24
+  grade: College or Vocational School - Bachelor's Degree in Health and Wellness
+  activity: Playing soccer
+  future: In his 3rd year of college with two remaining.
+  image: Clement.jpg
+
+- name: Della
+  age: 25
+  grade: College or Vocational School - Studying Office Administration
+  activity: Singing
+  future: In her first year.
+  image: Della.jpg
+
+- name: Dominic
+  age: 5
+  grade: Kindergarten
+  activity: Reading and singing
+  future: I want to be a police officer
+  image: Dominic.jpg
+
+- name: Ebben
+  age: 2
+  activity: Coloring and playing outside
+  future: I am still exploring the world, will let you know later.
+  image: Ebben.jpg
+
+- name: Eliakim
+  age: 8 months
+  activity: Smiling and laughing
+  future: Still exploring the world, check back with him later.
+  image: Eliakim.jpg
+
+- name: Eric
+  age: 8
+  grade: 1st
+  activity: Dancing and taking pictures
+  future: Still exploring the world, check back with him later.
+  image: Eric.jpg
+
+- name: Glen
+  age: 12
+  grade: 5th
+  activity: Dancing and helping others learn English
+  future: Still exploring the world, check back with him later.
+  image: Glen.jpg
+
+- name: Inocentia
+  age: 13
+  grade: 5th
+  activity: Working with words and singing
+  future: I want to be a doctor.
+  image: Inocentia.jpg
+
+- name: Immanuel
+  age: 2
+  activity: He loves to dance and his giggle is infectious!
+  future: I am still exploring the world, check back with me later!
+  image: Immanuel.jpg
+
+- name: Jackson
+  age: 11
+  grade: 2nd
+  activity: Mathematics, working with words and playing soccer
+  future: I want to be a doctor.
+  image: Jackson.jpg
+
+- name: Joshua
+  age: 16
+  grade: 9th
+  activity: Studying physical science and chemistry, drawing and singing
+  future: I want to be a singer or artist.
+  image: Joshua.jpg
+
+- name: Josiah
+  age: 12
+  grade: 5th
+  activity: Reading, writing and swimming
+  future: I want to be a pilot.
+  image: Josiah.jpg
+
+- name: Julia
+  age: 6
+  grade: Kindergarten
+  activity: Dancing and Singing
+  future: I want to be a doctor.
+  image: Julia.jpg
+
+- name: Likuwa
+  age: 17
+  grade: 7th
+  activity: Social Studies and Karate
+  future: I want to travel to America and see all my favorite musicians.
+  image: Likuwa.jpg
+
+- name: Liseli
+  age: 8
+  grade: 4th
+  activity: Mathematics and jumping rope
+  future: I want to be a doctor.
+  image: Liseli.jpg
+
+- name: Magdalena
+  age: 14
+  grade: 2nd
+  activity: Mathematics and cooking with my family
+  future: I want to be a lawyer.
+  image: Magdalena.jpg
+
+- name: Mahindi
+  age: 12
+  grade: 1st
+  activity: Reading, writing and creating usable things with items that are tossed out
+  future: I want to be a mechanic.
+  image: Mahindi.jpg
+
+- name: Maria
+  age: 14
+  grade: 8th
+  activity: Working in the garden and reading my Bible
+  future: I want to be a doctor.
+  image: Maria.jpg
+
+- name: Marsela
+  age: 17
+  grade: 9th
+  activity: Dancing and Laughing
+  future: I want to be a doctor.
+  image: Marsela.jpg
+
+- name: Mary Ann
+  age: 10
+  grade: 4th
+  activity: Studying history and singing
+  future: I want to be a doctor.
+  image: Mary Ann.jpg
+
+- name: Masuku
+  age: 4
+  grade: Learning English to start kindergarten next year
+  activity: Playing outside and cuddling.
+  future: Still exploring the world, check back with her later.
+  image: Masuku.jpg
+
+- name: Meleki
+  age: 4
+  grade: Not attending at this time.
+  activity: Dancing and singing
+  future: Still exploring the world, check back with him later.
+  image: Meleki.jpg
+
+- name: Michael
+  age: 5
+  grade: Kindergarten
+  activity: Enjoys discovering new things, treasure hunting
+  future: I want to be a policeman.
+  image: Michael.jpg
+
+- name: Naomi
+  age: 15 months
+  activity: Finding ways to get dirty and giggling.
+  future: Still exploring the world, check back with her later.
+  image: Naomi2.jpg
+
+- name: Natasha
+  age: 9
+  grade: 2nd
+  activity: Mathematics and laughing
+  future: I want to be a nurse.
+  image: Natasha.jpg
+
+- name: Ndaluka
+  age: 10
+  grade: 2nd
+  activity: Talking, laughing and caring for her 4 siblings - Masuku, Eric, Ngulwa and Zamaiso.
+  future: Still exploring the world, check back with her later.
+  image: Ndaluka.jpg
+
+- name: Ngulwa (Twin of Zamaiso)
+  age: 15 months
+  activity: Eating and cuddling
+  future: Still exploring the world, check back with her later.
+  image: Ngulwa.jpg
+
+- name: Pankresius
+  age: 8
+  grade: 2nd
+  activity: Swimming
+  future: Since I am still learning, I want to explore my options and learn more about the world.
+  image: Pankresius.jpg
+
+- name: Paulus
+  age: 11
+  grade: 2nd
+  activity: Mathematics and swimming
+  future: I want to be a police officer.
+  image: Paulus.jpg
+
+- name: Precious
+  age: 4
+  grade: Kindergarten
+  activity: Playing outside with my friends and I like math.
+  future: I want to be a teacher.
+  image: Precious.jpg
+
+- name: Raphael
+  age: 4
+  grade: Pre-Kindergarten
+  activity: Singing and working with numbers
+  future: Still exploring my options but at this time I would like to be a dog.
+  image: Raphael.jpg
+
+- name: Regina
+  age: 5
+  grade: Pre-Kindergarten
+  activity: Working with numbers, drawing and playing outside
+  future: I want to have a family and many friends.
+  image: Regina.jpg
+
+- name: Remesia
+  age: 15
+  grade: 2
+  activity: I like to dance and enjoy cooking.
+  future: I want to be able to live on my own and return to my village.
+  image: Remesia.jpg
+
+- name: Sabastian
+  age: 6
+  grade: Kindergarten
+  activity: Working with numbers and playing cars with my friends
+  future: I want to be a police officer.
+  image: Sabastian.jpg
+
+- name: Secilia
+  age: 6
+  grade: Kindergarten
+  activity: Sing, dance and play outside with my friends.
+  future: I want to be a leader because I'm good at being in charge.
+  image: Secilia.jpg
+
+- name: Silima
+  age: 16
+  grade: 7th
+  activity: Mathematics and singing
+  future: I want to be a pilot.
+  image: Silima.jpg
+
+- name: Thomas
+  age: 15
+  grade: 5th
+  activity: Dancing and playing soccer
+  future: Still exploring the world, check back with him later.
+  image: Thomas.jpg
+
+- name: Zamaiso (Twin of Ngulwa)
+  age: 15 months
+  activity: Eating and getting loved on by others
+  future: Still exploring the world, check back with her later.
+  image: Zamaiso.jpg

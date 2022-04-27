@@ -21,7 +21,7 @@ var redoColumns = function() {
     }
 }
 
-var updateNumbers = function() {
+/* var updateNumbers = function () {
     // Get file
     let fileRQ = new XMLHttpRequest()
     fileRQ.open("GET", "https://cozv.github.io/2020drivedata/data.json", false)
@@ -34,11 +34,11 @@ var updateNumbers = function() {
     for (element of document.getElementsByClassName("sponsors")) {
         element.innerHTML = data[element.id]
     }
-}
+} */
 
 var setup = function() {
     redoColumns();
-    updateNumbers();
+    // updateNumbers();
 }
 
 window.onresize = redoColumns;
